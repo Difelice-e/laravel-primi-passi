@@ -13,7 +13,6 @@
         <a href="{{ route('contacts') }}">Contacts</a>
         <a href="{{ route('portfolio') }}">Portfolio</a>
     </header>
-    <hr>
-    <h1>Hello World</h1>
+    <h1>Portfolio here..</h1>
 </body>
 </html>
